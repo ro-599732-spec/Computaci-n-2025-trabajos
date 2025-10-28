@@ -1,0 +1,2 @@
+nslookup este es un dominio
+tracer rastrea los paquetes de un servidor
